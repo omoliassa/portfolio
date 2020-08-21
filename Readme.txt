@@ -1,8 +1,2 @@
-echo "# portfolio" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/omoliassa/portfolio.git
-git push -u origin master
-
-       
+Fully working PHP/AJAX contact form script is available in the pro version of the template.
+You can buy it from: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
